@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋, I'm Ridhi Fomra! 
 
-<!--
-**rfomra05/rfomra05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently earning my Master’s in Business Analytics at Simon Business School, with a background in Finance. Excited to dive into the coding community and share projects soon!
 
-Here are some ideas to get you started:
+📊 Data detective: I love diving into data and uncovering hidden stories using Python, SQL, and Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Impact-oriented: I love seeing my data work translate into real-world business decisions!
+
+🧩 Puzzle addict: Whether it's a complex dataset or an actual puzzle, I’m always game for solving it!
+
+🌍 World traveler: Exploring different cultures and places is on my to-do list.
+
+📫 How to reach me: Let’s connect on LinkedIn! 
+
+
+
