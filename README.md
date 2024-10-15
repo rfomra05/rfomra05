@@ -2,9 +2,9 @@
 
 Currently earning my Master’s in Business Analytics at Simon Business School, with a background in Finance. Excited to dive into the coding community and share projects soon!
 
-📊 Data detective: I love diving into data and uncovering hidden stories using Python, SQL, and Tableau.
+📊 Data detective: Passionate about uncovering hidden stories through Python, SQL, and Tableau.
 
-📈 Impact-oriented: I love seeing my data work translate into real-world business decisions!
+📈 Impact-oriented: Thrilled to see my analysis turn into actionable business insights!
 
 🧩 Puzzle addict: Whether it's a complex dataset or an actual puzzle, I’m always game for solving it!
 
