@@ -10,7 +10,7 @@ Currently earning my Master’s in Business Analytics at Simon Business School, 
 
 🌍 World traveler: Exploring different cultures and places is on my to-do list.
 
-📫 How to reach me: Let’s connect on LinkedIn! 
+📫 How to reach me: Let’s connect on LinkedIn/ rfomra@simon.rochester.edu 
 
 
 
